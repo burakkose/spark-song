@@ -1,4 +1,4 @@
-# SPARKSONG : music Recommendation System
+# SPARKSONG : Music Recommendation System
 distributed music recommendation system on Apache Spark and MLlib
 
 
